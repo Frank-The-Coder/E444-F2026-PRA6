@@ -2,7 +2,7 @@
 
 **Author:** Frank (Qingtao) Liu
 
-**Live app:** DEPLOYED_URL_HERE
+**Live app:** https://flaskr-frank.onrender.com
 
 This repository is based on the course tutorial https://github.com/shuruizUofT/flaskr-tdd, which is
 adapted from https://github.com/mjhea0/flaskr-tdd (MIT License, see `LICENSE`). Flaskr is a small
